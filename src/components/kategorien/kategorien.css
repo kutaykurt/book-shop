@@ -1,0 +1,44 @@
+.kategorien {
+    color: rgb(67, 67, 67);
+}
+
+.kategorie-container {
+    margin-bottom: 60px;
+}
+
+.book-detail {
+    margin-right: 12px;
+    padding: 8px;
+}
+
+.book-container {
+    box-shadow: 0px 0px 4px rgb(185, 185, 185);
+    padding: 16px;
+    height: 220px;
+    width: 170px;
+    display: flex;
+    justify-content: center;
+}
+
+.book-name {
+    width: 140px;
+}
+
+.unterkategorie-name {
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.kategorie-titel {
+    font-size: 22px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.scroll-button {
+    border: 1px black solid;
+    background-color: rgb(15, 100, 212);
+    color: white;
+    border-radius: 4px;
+    margin-right: 10px;
+}

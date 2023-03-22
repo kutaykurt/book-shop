@@ -1,0 +1,14 @@
+.Einkaufskorb {
+    padding: 40px;
+}
+
+.einkaufskorb-container {
+    display: flex;
+    border-bottom: 1px black solid;
+}
+
+.einkaufskorb-img {
+    width: 200px;
+    margin-right: 100px;
+    padding: 20px;
+}
